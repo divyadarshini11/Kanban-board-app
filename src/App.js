@@ -5,7 +5,7 @@ import TaskList from './components/TaskList/TaskList';
 function App() {
   return (
     <div>
-      <h1>Task List</h1>
+      
       <TaskList/>
     </div>
   );
