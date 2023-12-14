@@ -23,7 +23,7 @@ Users can sort the displayed tickets in two ways:
 - Low (Priority level 1)
 - No priority (Priority level 0)
 
-**Priority levels: **
+**Priority levels:**
 
 4 - Urgent
 3 - High
